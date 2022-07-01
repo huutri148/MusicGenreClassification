@@ -1,0 +1,32 @@
+{"id": "IWZ9Z08O", "name": "Âu Mỹ"}
+{"id": "IWZ9Z097", "name": "Pop"}
+{"id": "IWZ9Z09A", "name": "Electronic / Dance"}
+{"id": "IWZ97797", "name": "Latin"}
+{"id": "IWZ9Z09B", "name": "Rap / Hip Hop"}
+{"id": "IWZ9Z08W", "name": "Hàn Quốc"}
+{"id": "IWZ9Z09O", "name": "Dance Pop"}
+{"id": "IWZ9Z096", "name": "Country"}
+{"id": "IWZ9Z0EC", "name": "Nhạc Phim"}
+{"id": "IWZ9Z09D", "name": "R&B / Soul"}
+{"id": "IWZ9ZIUO", "name": "Alternative"}
+{"id": "IWZ9Z0C7", "name": "Trance / House / Techno"}
+{"id": "IWZ9Z08I", "name": "Việt Nam"}
+{"id": "IWZ9Z0BA", "name": "Nhạc Phim"}
+{"id": "IWZ97FCD", "name": "V-Pop"}
+{"id": "IWZ9Z0C8", "name": "R&B Việt"}
+{"id": "IWZ9Z089", "name": "Rap Việt"}
+{"id": "IWZ97FCE", "name": "EDM Việt"}
+{"id": "IWZ9Z09W", "name": "Pop/Pop Ballad"}
+{"id": "IWZ9Z09I", "name": "Rap / Hip Hop"}
+{"id": "IWZ9Z099", "name": "Rock"}
+{"id": "IWZ9Z09C", "name": "Blues / Jazz"}
+{"id": "IWZ9ZI6F", "name": "Children's Music"}
+{"id": "IWZ980O7", "name": "Classical"}
+{"id": "IWZ9Z0CW", "name": "Dance Việt"}
+{"id": "IWZ9Z098", "name": "New Age / World Music"}
+{"id": "IWZ9Z0CA", "name": "Indie"}
+{"id": "IWZ9Z0CU", "name": "Khác"}
+{"id": "IWZ9Z0BB", "name": "Nhạc Phim"}
+{"id": "IWZ9Z08D", "name": "Nhạc Dân Ca - Quê Hương"}
+{"id": "IWZ9Z08A", "name": "Rock Việt"}
+{"id": "IWZ9Z08B", "name": "Nhạc Trữ Tình"}

@@ -1,0 +1,111 @@
+{"encodeId": "ZW7OUI0C", "title": "SING PSYmix Version"}
+{"encodeId": "ZUODUZD6", "title": "DUMB DUMB"}
+{"encodeId": "ZUZDWAZ7", "title": "Queendom"}
+{"encodeId": "ZU6ZE7FW", "title": "LALISA"}
+{"encodeId": "ZWBU778A", "title": "How You Like That"}
+{"encodeId": "ZU7BUW9U", "title": "Savage"}
+{"encodeId": "ZOFEI009", "title": "Butter"}
+{"encodeId": "ZO9F7BEZ", "title": "On The Ground"}
+{"encodeId": "ZWB0B78A", "title": "DUN DUN"}
+{"encodeId": "ZWAF6EDC", "title": "HIP"}
+{"encodeId": "ZW9FID6Z", "title": "SOLO"}
+{"encodeId": "ZW9ADOC8", "title": "LOVE SCENARIO"}
+{"encodeId": "ZW9C9AZ0", "title": "DDU-DU DDU-DU"}
+{"encodeId": "ZW60FF9E", "title": "Day By Day"}
+{"encodeId": "ZWAC9FZ9", "title": "Think of Me"}
+{"encodeId": "ZZ9OE0ZA", "title": "버퍼링 Glitch Mode"}
+{"encodeId": "ZZ8DA66W", "title": "Real Love"}
+{"encodeId": "ZZ8D6ECF", "title": "Feel My Rhythm"}
+{"encodeId": "ZZ980W8O", "title": "memeM"}
+{"encodeId": "ZZ8Z6WWE", "title": "GANADARA (Feat. IU)"}
+{"encodeId": "ZZ8B9I9C", "title": "HONEY"}
+{"encodeId": "ZZ98BC8O", "title": "JAWS"}
+{"encodeId": "ZZ97I8OF", "title": "Giddy up"}
+{"encodeId": "ZZ89O897", "title": "Thank You"}
+{"encodeId": "ZZ8BAAOW", "title": "Too Bad"}
+{"encodeId": "ZZ9I769D", "title": "Adrenaline"}
+{"encodeId": "ZZ9WU8ZA", "title": "O"}
+{"encodeId": "ZZ909B9D", "title": "DAYDREAM"}
+{"encodeId": "ZZZIABZF", "title": "DARARI"}
+{"encodeId": "ZZ89AA6Z", "title": "VOYAGER"}
+{"encodeId": "ZZ88E87O", "title": "Love, Maybe"}
+{"encodeId": "ZZ8OFOZD", "title": "DU DU DU"}
+{"encodeId": "ZZZC89UU", "title": "YOUNG LUV"}
+{"encodeId": "ZO9F7BE6", "title": "Gone"}
+{"encodeId": "ZW6E7WE9", "title": "Cheer Up"}
+{"encodeId": "ZU6ZE7FU", "title": "MONEY"}
+{"encodeId": "ZZUA8FUA", "title": "INVU"}
+{"encodeId": "ZU760WBU", "title": "Yours (feat. LeeHi, CHANGMO)"}
+{"encodeId": "ZOF7U8WI", "title": "Life Goes On"}
+{"encodeId": "ZZZ7WODD", "title": "Love, Maybe"}
+{"encodeId": "ZUDUFBOB", "title": "ELEVEN"}
+{"encodeId": "ZOEBBBEW", "title": "Dynamite"}
+{"encodeId": "ZWACDBZ6", "title": "Kill This Love"}
+{"encodeId": "ZUWOF079", "title": "Permission to Dance"}
+{"encodeId": "ZWDFDW0B", "title": "Lovesick Girls"}
+{"encodeId": "ZWDFDW09", "title": "Pretty Savage"}
+{"encodeId": "ZWAF7E88", "title": "Blueming"}
+{"encodeId": "ZUEDW888", "title": "Dreams Come True"}
+{"encodeId": "ZWBWBI66", "title": "ON"}
+{"encodeId": "ZWACDB70", "title": "Don't Know What To Do"}
+{"encodeId": "ZWACF767", "title": "HOME"}
+{"encodeId": "ZZ0WFB6C", "title": "Step Back"}
+{"encodeId": "ZWDWZCIC", "title": "Ice Cream (with Selena Gomez)"}
+{"encodeId": "ZWB0B8D0", "title": "Beginning"}
+{"encodeId": "ZWDFDW0E", "title": "Love To Hate Me"}
+{"encodeId": "ZOF7ODW6", "title": "We are Bulletproof : the Eternal"}
+{"encodeId": "ZZ0O9AUE", "title": "WA DA DA"}
+{"encodeId": "ZUAEI6U8", "title": "Celebrity"}
+{"encodeId": "ZWDFDW0F", "title": "You Never Know"}
+{"encodeId": "ZWBWBI6O", "title": "Filter"}
+{"encodeId": "ZWBWBI6W", "title": "Black Swan"}
+{"encodeId": "ZWDFDW0C", "title": "Crazy Over You"}
+{"encodeId": "ZWACF76Z", "title": "Mikrokosmos"}
+{"encodeId": "ZOF7U8WZ", "title": "Telepathy"}
+{"encodeId": "ZWB0U60U", "title": "Sunset"}
+{"encodeId": "ZOF7ODWI", "title": "00:00 (Zero O’Clock)"}
+{"encodeId": "ZZZC89OC", "title": "RUN2U"}
+{"encodeId": "ZZIC7Z79", "title": "Can't Control Myself"}
+{"encodeId": "ZWBWBI6A", "title": "Friends"}
+{"encodeId": "ZWB078FC", "title": "Here I Am Again"}
+{"encodeId": "ZWACDB7I", "title": "Kick It"}
+{"encodeId": "ZWBIF0U6", "title": "Sweet Night"}
+{"encodeId": "ZU7ZFDWB", "title": "Black Mamba"}
+{"encodeId": "ZWACF769", "title": "Dionysus"}
+{"encodeId": "ZWACF766", "title": "Make It Right"}
+{"encodeId": "ZU96E8IZ", "title": "strawberry moon"}
+{"encodeId": "ZUAE00WB", "title": "eight(Prod.&Feat. SUGA of BTS)"}
+{"encodeId": "ZOF7U8WO", "title": "Blue & Grey"}
+{"encodeId": "ZUBUA7A8", "title": "Maria"}
+{"encodeId": "ZWDFDW0A", "title": "Bet You Wanna (Feat. Cardi B)"}
+{"encodeId": "ZWBU76WI", "title": "YOU & I + ONLY LOOK AT ME (Live)"}
+{"encodeId": "ZUAU97A0", "title": "XOXO"}
+{"encodeId": "ZZ8D6EDZ", "title": "In My Dreams"}
+{"encodeId": "ZWACDB7W", "title": "Hope Not"}
+{"encodeId": "ZUAU97AU", "title": "Anymore"}
+{"encodeId": "ZUZ798BW", "title": "Butter (Megan Thee Stallion Remix)"}
+{"encodeId": "ZZU7CFZ9", "title": "BOP BOP!"}
+{"encodeId": "ZZZIABZD", "title": "U"}
+{"encodeId": "ZOF7WUWC", "title": "Heartbeat (BTS World Original Soundtrack)"}
+{"encodeId": "ZWBIZI7W", "title": "Someday, The Boy"}
+{"encodeId": "ZWB0CZA0", "title": "GOING CRAZY"}
+{"encodeId": "ZWBFEAEB", "title": "What You Waiting For"}
+{"encodeId": "ZWBWBI6B", "title": "Moon"}
+{"encodeId": "ZWAD9OU7", "title": "NO ONE"}
+{"encodeId": "ZUBZCIZO", "title": "LILAC"}
+{"encodeId": "ZZWW0OZD", "title": "Horangsuwolga"}
+{"encodeId": "ZUBUA76F", "title": "NUNU NANA"}
+{"encodeId": "ZW68UU86", "title": "If"}
+{"encodeId": "ZUBU699D", "title": "Rollin'"}
+{"encodeId": "ZZ89WAIE", "title": "BORN TO LOVE YOU"}
+{"encodeId": "ZU8CADOD", "title": "Is it me?"}
+{"encodeId": "ZZ906WDU", "title": "Fall in love"}
+{"encodeId": "ZWBWEU00", "title": "Nonstop"}
+{"encodeId": "ZU7ZF9FU", "title": "Weekend"}
+{"encodeId": "ZWB07EW9", "title": "Any song"}
+{"encodeId": "ZZ0IE6EW", "title": "Sick enough to die (Feat. JAMIE)"}
+{"encodeId": "ZWBWC69D", "title": "Orbit"}
+{"encodeId": "ZWD8CWEA", "title": "I LOVE YOU"}
+{"encodeId": "ZZZ00EZ8", "title": "Dilemma"}
+{"encodeId": "ZWAEEIID", "title": "How can I love the heartbreak, you’re the one I love"}
+{"encodeId": "ZUDIEEBZ", "title": "Beautiful"}

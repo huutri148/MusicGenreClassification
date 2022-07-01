@@ -1,0 +1,34 @@
+Latin - ID:IWZ97797 - labels:3 - numberOfAudios: 46 files
+EDM Việt - ID:IWZ97FCE - labels:17 - numberOfAudios: 2636 filesá
+Classical - ID:IWZ980O7 - labels:23 - numberOfAudios: 14 files
+Rap Việt - ID:IWZ9Z089 - labels:16 - numberOfAudios: 101 files
+Rock Việt - ID:IWZ9Z08A - labels:30 - numberOfAudios: 8 files
+Nhạc Trữ Tình - ID:IWZ9Z08B - labels:31 - numberOfAudios: 6 files
+Nhạc Dân Ca - Quê Hương - ID:IWZ9Z08D - labels:29 - numberOfAudios: 12 files
+Việt Nam - ID:IWZ9Z08I - labels:12 - numberOfAudios: 3361 files
+Âu Mỹ - ID:IWZ9Z08O - labels:0 - numberOfAudios: 3422 files
+Hàn Quốc - ID:IWZ9Z08W - labels:5 - numberOfAudios: 655 files
+Country - ID:IWZ9Z096 - labels:7 - numberOfAudios: 42 files
+Pop - ID:IWZ9Z097 - labels:1 - numberOfAudios: 1770 files
+New Age / World Music - ID:IWZ9Z098 - labels:25 - numberOfAudios: 8 files
+Rock - ID:IWZ9Z099 - labels:20 - numberOfAudios: 12 files
+Electronic / Dance - ID:IWZ9Z09A - labels:2 - numberOfAudios: 189 files
+Rap / Hip Hop - ID:IWZ9Z09B - labels:4 - numberOfAudios: 240 files
+Blues / Jazz - ID:IWZ9Z09C - labels:21 - numberOfAudios: 6 files
+R&B / Soul - ID:IWZ9Z09D - labels:9 - numberOfAudios: 194 files
+Rap / Hip Hop - ID:IWZ9Z09I - labels:19 - numberOfAudios: 32 files
+Dance Pop - ID:IWZ9Z09O - labels:6 - numberOfAudios: 142 files
+Pop/Pop Ballad - ID:IWZ9Z09W - labels:18 - numberOfAudios: 176 files
+Nhạc Phim Viêt - ID:IWZ9Z0BA - labels:13 - numberOfAudios: 838 files
+Nhạc Phim  - ID:IWZ9Z0BB - labels:28 - numberOfAudios: 33 files
+Trance / House / Techno - ID:IWZ9Z0C7 - labels:11 - numberOfAudios: 142 files
+R&B Việt - ID:IWZ9Z0C8 - labels:15 - numberOfAudios: 137 files
+Indie - ID:IWZ9Z0CA - labels:26 - numberOfAudios: 6 files
+Khác - ID:IWZ9Z0CU - labels:27 - numberOfAudios: 5 files - KPOP 
+Dance Việt - ID:IWZ9Z0CW - labels:24 - numberOfAudios: 55 files
+Nhạc Phim US-UK - ID:IWZ9Z0EC - labels:8 - numberOfAudios: 599 files
+Children's Music - ID:IWZ9ZI6F - labels:22 - numberOfAudios: 11 files
+Alternative - ID:IWZ9ZIUO - labels:10 - numberOfAudios: 118 files
+Total Audio Files: 15016 files
+
+

@@ -1,0 +1,118 @@
+{"encodeId": "ZOF976BI", "title": "Sao Cha Không (Bố Già OST)"}
+{"encodeId": "ZW7DAIDA", "title": "Yêu Là Tha Thu (Em Chưa 18 OST)"}
+{"encodeId": "ZW9B8EW0", "title": "Tâm Sự Tuổi 30 (Ông Ngoại Tuổi 30 OST)"}
+{"encodeId": "ZU66O7E9", "title": "Sẽ Mãi Một Tình Yêu (Hương Vị Tình Thân OST)"}
+{"encodeId": "ZWB0O08F", "title": "Shh! Chỉ Ta Biết Thôi (Chị Chị Em Em OST)"}
+{"encodeId": "ZW7WFEIW", "title": "Mình Yêu Từ Bao Giờ (Em Là Bà Nội Của Anh OST)"}
+{"encodeId": "ZO6IIFUU", "title": "Không Sao Đâu Em (Tâm Sắc Tấm OST)"}
+{"encodeId": "ZW9EU0F9", "title": "Ngày Chưa Giông Bão (Người Bất Tử OST)"}
+{"encodeId": "ZW9BZE0W", "title": "Nụ Hôn Đánh Rơi (Tháng Năm Rực Rỡ OST)"}
+{"encodeId": "ZW9CZDUC", "title": "Nhắm Mắt Thấy Mùa Hè (Nhắm Mắt Thấy Mùa Hè OST)"}
+{"encodeId": "ZWAFCW0F", "title": "Mình Yêu Nhau Từ Kiếp Nào (Pháp Sư Mù OST)"}
+{"encodeId": "ZWABZW89", "title": "Người Nào Hay (Friend Zone OST)"}
+{"encodeId": "ZW9BC87F", "title": "Cứ Yêu Đi (100 Ngày Bên Em OST)"}
+{"encodeId": "ZW9ACF7O", "title": "Vỡ (Siêu Sao Siêu Ngố OST)"}
+{"encodeId": "ZW8WI679", "title": "Cô Ba Sài Gòn (Cô Ba Sài Gòn OST)"}
+{"encodeId": "ZW7B0CDD", "title": "Cô Gái Ngày Hôm Qua (Cô Gái Đến Từ Hôm Qua OST)"}
+{"encodeId": "ZWABIBIB", "title": "Nếu Có Một Ngày (Gái Già Lắm Chiêu 2 OST)"}
+{"encodeId": "ZW8WAUWI", "title": "Cánh Hoa Tàn (Mẹ Chồng OST)"}
+{"encodeId": "ZW9BADUZ", "title": "Vì Yêu Là Nhớ (Ông Ngoại Tuổi 30 OST)"}
+{"encodeId": "ZW7UI8DC", "title": "Yêu Và Yêu (Bệnh Viện Ma OST)"}
+{"encodeId": "ZW8IWOAU", "title": "Yêu Đi Đừng Sợ (Yêu Đi Đừng Sợ OST)"}
+{"encodeId": "ZW806BCC", "title": "Ngồi Hát Đỡ Buồn (Cô Gái Đến Từ Hôm Qua OST)"}
+{"encodeId": "ZW9CD9UO", "title": "Mình Yêu Nhau Từ Kiếp Nào (Ai Chết Giơ Tay OST)"}
+{"encodeId": "ZW696W8D", "title": "Buổi Chiều Hôm Ấy (Thần Tượng OST)"}
+{"encodeId": "ZW6A87CF", "title": "Dấu Mưa (Quả Tim Máu OST)"}
+{"encodeId": "ZW78D0FZ", "title": "Lạc Nhau Có Phải Muôn Đời (Chờ Em Đến Ngày Mai OST)"}
+{"encodeId": "ZW78679U", "title": "Hẹn Một Mai (4 Năm 2 Chàng 1 Tình Yêu OST)"}
+{"encodeId": "ZW78679W", "title": "Mãi Mãi Là Của Nhau (4 Năm 2 Chàng 1 Tình Yêu OST)"}
+{"encodeId": "ZW7FOEUD", "title": "Nơi Ta Chờ Em (Em Chưa 18 OST)"}
+{"encodeId": "ZW9CFDU9", "title": "Suýt Nữa Thì (Chuyến Đi Của Thanh Xuân OST)"}
+{"encodeId": "ZW9ABW0E", "title": "Đừng Xin Lỗi Nữa (Lala - Hãy Để Em Yêu Anh OST)"}
+{"encodeId": "ZWAEIADU", "title": "Anh Đánh Rơi Người Yêu Này! (Thật Tuyệt Vời Khi Ở Bên Em OST)"}
+{"encodeId": "ZW9FD6AZ", "title": "Anh Vẫn Hy Vọng (Cương Thi Biến OST)"}
+{"encodeId": "ZWAE0OZB", "title": "Thật Tuyệt Vời Khi Ở Bên Em (Thật Tuyệt Vời Khi Ở Bên Em OST)"}
+{"encodeId": "ZWAEE099", "title": "Anh Sẽ Đến (Nhân Duyên: Người Yêu Tiền Kiếp OST)"}
+{"encodeId": "ZW9D6OB7", "title": "Mảnh Ghép (Mảnh Ghép Thanh Xuân OST)"}
+{"encodeId": "ZZ9090ID", "title": "Hai Phai Không Phai (Mến Gái Miền Tây OST)"}
+{"encodeId": "ZUO966EE", "title": "Hương Tình Thân (Hương Vị Tình Thân OST)"}
+{"encodeId": "ZWAF7D0C", "title": "Hào Bước Theo Đời (Hiếu Bến Tàu OST)"}
+{"encodeId": "ZZ976OOU", "title": "Chẳng Còn Là Chúng Ta (Mến Gái Miền Tây OST)"}
+{"encodeId": "ZWB00DCB", "title": "Lục Bình Trên Sông"}
+{"encodeId": "ZOAC6DDF", "title": "Chị Mười Ba (Chị 13 OST)"}
+{"encodeId": "ZUZF07ZW", "title": "Phía Sau Cánh Cửa (Ngày Mai Bình Yên OST)"}
+{"encodeId": "ZUB9W0CA", "title": "Hoa Dại (Một Ngày Không Có Em OST)"}
+{"encodeId": "ZOA88B7D", "title": "Kiều Mệnh Khúc"}
+{"encodeId": "ZWAF7ACU", "title": "Mai Này (Ngốc Ơi Tuổi 17 OST)"}
+{"encodeId": "ZOIUFIEA", "title": "Rap Say (OST Lật Mặt: 48H)"}
+{"encodeId": "ZWB08U6B", "title": "Cơn Gió Về (Bí Mật Của Gió OST)"}
+{"encodeId": "ZZ9WZUZB", "title": "Độc Hành (Bão Ngầm OST)"}
+{"encodeId": "ZWAFA7DC", "title": "Đời Là Dòng Sông (Hiếu Bến Tàu OST)"}
+{"encodeId": "ZWAF7ABO", "title": "Biển Người Nhân Gian (Pháp Sư Mù OST)"}
+{"encodeId": "ZU0796OF", "title": "Trắng Tay Mới Nên Người (Chợ Đời 2) (Huynh Đệ Giữa Chợ Đời OST)"}
+{"encodeId": "ZOUBU9Z9", "title": "Bỏ Lỡ Nhau Rồi (Hoàng Quý Muội OST)"}
+{"encodeId": "ZWFICFCC", "title": "Đàn Chim Di Cư (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZWB0UW9U", "title": "Là Anh Yêu Em Đó (Đại Ca Đi Học OST)"}
+{"encodeId": "ZWBW6WE7", "title": "Phượng Khấu"}
+{"encodeId": "ZZW76FI8", "title": "Bén (1990 OST)"}
+{"encodeId": "ZO899W6C", "title": "Cô Tấm Ngày Nay (OST Tâm Sắc Tấm)"}
+{"encodeId": "ZU0ZIC68", "title": "Bước Ra Ánh Sáng (Bước Ra Ánh Sáng OST)"}
+{"encodeId": "ZWAFAWZ7", "title": "Cảm Ơn Đã Chung Đường (Pháp Sư Mù OST)"}
+{"encodeId": "ZWBIC8EB", "title": "Đổi Trắng Thay Đen (Nam Tử Hán OST)"}
+{"encodeId": "ZWAFZAWE", "title": "Bài Ca Gió (Hiếu Bến Tàu OST)"}
+{"encodeId": "ZWC8OODC", "title": "Nếu Chúng Ta Còn Duyên (Đỉnh Mù Sương OST)"}
+{"encodeId": "ZU79D78Z", "title": "Anh Chỉ Yêu Mình Em (Tây Vương Nữ Quốc 1986 OST)"}
+{"encodeId": "ZZOOEFAO", "title": "Anh Chưa Từng Nghĩ Sẽ Yêu Em"}
+{"encodeId": "ZWD97B8F", "title": "Đại Ngư (Đại Ngư Hải Đường OST)"}
+{"encodeId": "ZWDZEZZU", "title": "Hoài Niệm Xót Xa (Xóm Trọ OST)"}
+{"encodeId": "ZWAF6ZOF", "title": "Tôi Về (Hiếu Bến Tàu OST)"}
+{"encodeId": "ZWCW8DOI", "title": "Ta Từng Có Thanh Xuân (Tiến Bromance OST)"}
+{"encodeId": "ZO8IO7E7", "title": "Là Vì Anh (Hoàng Quý Muội OST)"}
+{"encodeId": "ZO6FFZAF", "title": "Nếu Chúng Ta Chưa Từng Gặp (Hoàng Quý Muội OST)"}
+{"encodeId": "ZWFODFFZ", "title": "Hôm Nay Mùa Xuân (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZWBWCC6C", "title": "Chỉ Mãi Yêu Em (Chưa Một Lần Trọn Vẹn OST)"}
+{"encodeId": "ZWFODFF6", "title": "Đàn Chim Di Cư (Rock Version) (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZWB7UDE0", "title": "Có Trở Về Bên Nhau (Tiến Bromance OST)"}
+{"encodeId": "ZOWEW98D", "title": "Em Là Cô Dâu Của Anh (Cưới Ai Ai Cưới OST)"}
+{"encodeId": "ZU00IEZD", "title": "Biển Tình"}
+{"encodeId": "ZWBWFBI7", "title": "Họa Tình"}
+{"encodeId": "ZZ9IA7D9", "title": "Nước Cờ Em Chọn (Ông Trùm Bùi Viện OST)"}
+{"encodeId": "ZU8ZB70U", "title": "Mình Là Anh Em"}
+{"encodeId": "ZWDIIC7O", "title": "Mãi Bên Em Anh Nhé (Nhật Ký Nàng Xuân OST)"}
+{"encodeId": "ZU79D77E", "title": "Không Thẹn Với Lòng (Tuổi Trẻ Bao Thanh Thiên OST)"}
+{"encodeId": "ZWBW76AI", "title": "Tâm Tỏa (Bạch Phát Vương Phi OST)"}
+{"encodeId": "ZWFODFFU", "title": "Sau Một Ngày Dài (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZU79D77B", "title": "Quyết Không Hối Hận (Lục Tiểu Phụng OST)"}
+{"encodeId": "ZWBIDBED", "title": "Cô Độc (Bất Chấp Yêu Anh OST)"}
+{"encodeId": "ZOD979AO", "title": "Có Lẽ Là Tình Yêu (Em Trai Bố Dượng OST)"}
+{"encodeId": "ZO8D7CO9", "title": "Như Con Mèo Ngái Ngủ Trên Tay Anh (Trái Tim Hoa Hồng OST)"}
+{"encodeId": "ZWDEZDUU", "title": "Mong Được Một Lần (Mùi Đời OST)"}
+{"encodeId": "ZWDOAEWW", "title": "Vương Miện Xương Rồng (OST Vương Miện Xương Rồng)"}
+{"encodeId": "ZWBWOO76", "title": "Đò Đưa Duyên (Tô An Ký OST)"}
+{"encodeId": "ZU00IEZE", "title": "Lonely Love"}
+{"encodeId": "ZWB098DD", "title": "Con Là Lâm Tặc (Tiền Nhiều Để Làm Gì OST)"}
+{"encodeId": "ZU79D77F", "title": "Khí Phách Nam Nhi (Thái Bình Thiên Quốc OST)"}
+{"encodeId": "ZWFODFF7", "title": "Đàn Chim Di Cư (Acoustic Version) (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZU79D780", "title": "Đại Anh Hùng (Tùy Đường Anh Hùng OST)"}
+{"encodeId": "ZU00IEZA", "title": "Chạy Đâu Thoát"}
+{"encodeId": "ZZ9IA7D8", "title": "Nước Cờ Em Chọn (Ông Trùm Bùi Viện OST) (Acoustic Version)"}
+{"encodeId": "ZU00IEZF", "title": "Xuân Hạ Thu Đông"}
+{"encodeId": "ZU79D77D", "title": "Một Đời Người Một Giấc Mộng (Lộc Đỉnh Ký 2000 OST)"}
+{"encodeId": "ZZ9IA7D7", "title": "Nước Cờ Em Chọn (Ông Trùm Bùi Viện OST) (Remix Version)"}
+{"encodeId": "ZZ7W8UC8", "title": "Khi Anh Mặc Vest (Bình Báo OST)"}
+{"encodeId": "ZU79D77C", "title": "Mượn Trời Xanh Thêm 500 Năm (Khang Hy Đế Quốc OST)"}
+{"encodeId": "ZWFODFFO", "title": "Ố Là La (Sài Gòn Trong Cơn Mưa OST)"}
+{"encodeId": "ZZ7E7BAC", "title": "Ý Trung Nhân"}
+{"encodeId": "ZZ7W8UC9", "title": "Bạn Tôi Ơi (Bình Báo OST)"}
+{"encodeId": "ZWBIBF6F", "title": "Xin Cho Tôi (Cuốc Xe Nửa Đêm OST)"}
+{"encodeId": "ZU00IEZC", "title": "Nói Một Lời"}
+{"encodeId": "ZWBWAABA", "title": "Tam Khu Chiến (Tam Khu Chiến OST)"}
+{"encodeId": "ZU00IEZB", "title": "Trò Chơi Chỉ Mới Bắt Đầu"}
+{"encodeId": "ZZ6CCO9E", "title": "Gia Đình Dấu Yêu (Gia Đình Bất Đắc Dĩ OST)"}
+{"encodeId": "ZZZ7EB9D", "title": "Spiked Drink"}
+{"encodeId": "ZZZ7EB9E", "title": "Confrontation"}
+{"encodeId": "ZZZ7EB9C", "title": "Hard Questions"}
+{"encodeId": "ZZZ7EBA0", "title": "Ken"}
+{"encodeId": "ZZZ7EBAI", "title": "End the Nightmare"}
+{"encodeId": "ZZZ7EB9B", "title": "String Party Music"}
+{"encodeId": "ZW799A0O", "title": "Để Cho Em Khóc (Vali Tình Yêu OST)"}

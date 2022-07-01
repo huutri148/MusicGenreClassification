@@ -1,0 +1,279 @@
+{"encodeId": "ZOEOEAUD", "title": "Hôm Nay Tôi Buồn (Bẫy Ngọt Ngào Original Soundtrack)"}
+{"encodeId": "ZW7898I6", "title": "Cho Em Gần Anh Thêm Chút Nữa (Cho Em Gần Anh Thêm Chút Nữa OST)"}
+{"encodeId": "ZW78BW9D", "title": "Ánh Nắng Của Anh (Chờ Em Đến Ngày Mai OST)"}
+{"encodeId": "ZW7U8UU6", "title": "Bống Bống Bang Bang (Tấm Cám Chuyện Chưa Kể OST)"}
+{"encodeId": "ZZO0FAII", "title": "Ngần Ấy Năm Tổn Thương"}
+{"encodeId": "ZW7WFEW0", "title": "Em Là Bà Nội Của Anh"}
+{"encodeId": "ZW9D8ZZZ", "title": "Mình Chia Tay Đi"}
+{"encodeId": "ZW8WC7FZ", "title": "Chỉ Có Tình Yêu Ở Lại (Lôi Báo OST)"}
+{"encodeId": "ZW9COZ9B", "title": "Nhẹ (Nhắm Mắt Thấy Mùa Hè OST)"}
+{"encodeId": "ZW7O777O", "title": "Sau Tất Cả"}
+{"encodeId": "ZW78U908", "title": "Phía Sau Một Cô Gái"}
+{"encodeId": "ZW9BCU0D", "title": "Chạm Đáy Nỗi Đau"}
+{"encodeId": "ZWB0DFWZ", "title": "Hơn Cả Yêu"}
+{"encodeId": "ZW80B6I8", "title": "Xin Đừng Lặng Im"}
+{"encodeId": "ZWBOWD78", "title": "Em Không Sai Chúng Ta Sai"}
+{"encodeId": "ZW8IZECW", "title": "Em Gái Mưa"}
+{"encodeId": "ZWAEOBCW", "title": "Có Tất Cả Nhưng Thiếu Anh"}
+{"encodeId": "ZW9C0WDI", "title": "Đừng Như Thói Quen"}
+{"encodeId": "ZWADIOCC", "title": "Đừng Yêu Nữa, Em Mệt Rồi"}
+{"encodeId": "ZWAEE7F7", "title": "Hết Thương Cạn Nhớ"}
+{"encodeId": "ZWAWZ0AI", "title": "Đúng Người Đúng Thời Điểm"}
+{"encodeId": "ZWDZCE80", "title": "Bông Hoa Đẹp Nhất"}
+{"encodeId": "ZWAD7FEU", "title": "Đau Để Trưởng Thành"}
+{"encodeId": "ZWABWOFZ", "title": "Một Bước Yêu Vạn Dặm Đau"}
+{"encodeId": "ZWADZBB9", "title": "Ai Là Người Thương Em"}
+{"encodeId": "ZWAEIUUB", "title": "Sóng Gió"}
+{"encodeId": "ZW7O8W7U", "title": "Mùa Đông"}
+{"encodeId": "ZUO8O6E9", "title": "3107 3"}
+{"encodeId": "ZU0WF99U", "title": "Sài Gòn Hôm Nay Mưa"}
+{"encodeId": "ZU9AOO00", "title": "nằm ngủ emru"}
+{"encodeId": "ZWC6DUFW", "title": "Missing You"}
+{"encodeId": "ZOEIUW0E", "title": "Khi Em Lớn"}
+{"encodeId": "ZWC6EWA8", "title": "Ai Mang Cô Đơn Đi"}
+{"encodeId": "ZWAFE897", "title": "Bánh Mì Không"}
+{"encodeId": "ZWAFUA7B", "title": "2+3=5"}
+{"encodeId": "ZWACD68E", "title": "Anh Nhà Ở Đâu Thế?"}
+{"encodeId": "ZW9FU9OW", "title": "24H"}
+{"encodeId": "ZZ8FBUW9", "title": "Đám Cưới Nha?"}
+{"encodeId": "ZUB790F8", "title": "Ai Chung Tình Được Mãi"}
+{"encodeId": "ZZ0W0D9W", "title": "Không Trọn Vẹn Nữa"}
+{"encodeId": "ZZO0F8BW", "title": "Chạy Về Khóc Với Anh"}
+{"encodeId": "ZZ8OEOFZ", "title": "Nhạt Nhòa Mưa Phai"}
+{"encodeId": "ZZUB0I0E", "title": "Chạy Về Nơi Phía Anh"}
+{"encodeId": "ZUZA6AF7", "title": "Người Lạ Thoáng Qua"}
+{"encodeId": "ZUFZ0CD6", "title": "Thương Em Đến Già"}
+{"encodeId": "ZOAFI9D9", "title": "Cô Đơn Dành Cho Ai"}
+{"encodeId": "ZZ9OIWA0", "title": "Muốn Em Là"}
+{"encodeId": "ZZ0CBOB6", "title": "Vui Lắm Nha"}
+{"encodeId": "ZUOZWCUC", "title": "Rồi Tới Luôn"}
+{"encodeId": "ZU7UC9ZC", "title": "Em Là Con Thuyền Cô Đơn"}
+{"encodeId": "ZU7C8FDU", "title": "Thay Lòng"}
+{"encodeId": "ZUUECEIC", "title": "Khuê Mộc Lang"}
+{"encodeId": "ZZ8CCFFB", "title": "Nơi Em Mãi Mãi Là Bình Yên"}
+{"encodeId": "ZU6IEI66", "title": "Yêu Là Cưới"}
+{"encodeId": "ZZ9UWZO7", "title": "Rung Động"}
+{"encodeId": "ZUA8B9O8", "title": "Anh Yêu Vội Thế"}
+{"encodeId": "ZUDW07C8", "title": "Ví Dầu Đưa Dâu"}
+{"encodeId": "ZUEF8A96", "title": "Phản Bội Chính Mình"}
+{"encodeId": "ZZW8CBDI", "title": "Y Chang Xuân Sang"}
+{"encodeId": "ZUB7BZE8", "title": "Thì Thôi"}
+{"encodeId": "ZOOI7Z87", "title": "Chiều Thu Họa Bóng Nàng"}
+{"encodeId": "ZZ900O0A", "title": "Anh Em Cây Khế"}
+{"encodeId": "ZOAFBWB0", "title": "Hạ Còn Vương Nắng"}
+{"encodeId": "ZOACFBBU", "title": "Chỉ Là Không Cùng Nhau (Live Version)"}
+{"encodeId": "ZUC089AE", "title": "Là Ai Từ Bỏ, Là Ai Vô Tình"}
+{"encodeId": "ZUB8CDE9", "title": "Anh Vẫn Ở Đây"}
+{"encodeId": "ZUFOCIC7", "title": "Rồi Nâng Cái Ly"}
+{"encodeId": "ZUDOZIF0", "title": "Kiếp Này Em Gả Cho Anh"}
+{"encodeId": "ZOF6W809", "title": "Yêu Đơn Phương Là Gì?"}
+{"encodeId": "ZWEW9WI8", "title": "Kẹo Bông Gòn"}
+{"encodeId": "ZZ908EB0", "title": "Mất Anh Rồi"}
+{"encodeId": "ZUZAC09I", "title": "Thương Nhau Tới Bến"}
+{"encodeId": "ZO98F9W6", "title": "Cô Độc Vương"}
+{"encodeId": "ZUZUD9UF", "title": "Xem Như Em Chẳng May"}
+{"encodeId": "ZO76AAD9", "title": "Họ Yêu Ai Mất Rồi"}
+{"encodeId": "ZZ8WWED0", "title": "Thương Em Thiệt Hông?"}
+{"encodeId": "ZZWW08IW", "title": "Dây Tơ Kết Đôi"}
+{"encodeId": "ZZIDIODE", "title": "Em Ơi Đừng Sầu"}
+{"encodeId": "ZU68E97U", "title": "Cưới Luôn Được Không?"}
+{"encodeId": "ZWDAAU8Z", "title": "Hoa Hải Đường"}
+{"encodeId": "ZZWWU6DB", "title": "Đừng Khiến Trái Tim Em Khóc"}
+{"encodeId": "ZUDDAAZ8", "title": "Đau Ở Đây Này"}
+{"encodeId": "ZZ6IW7OU", "title": "Người Yêu Tôi Lạnh Lùng Sắt Đá"}
+{"encodeId": "ZUDZ00OU", "title": "Em Thích"}
+{"encodeId": "ZUOI0CDI", "title": "Em Nào Có Tội"}
+{"encodeId": "ZZOUI007", "title": "thay mọi cô gái yêu anh"}
+{"encodeId": "ZUDCZU89", "title": "Sau Này Nếu Có Yêu Ai"}
+{"encodeId": "ZZ89IFOF", "title": "Chiều Hoàng Hôn"}
+{"encodeId": "ZUFE6Z9W", "title": "Ôm Nhiều Mộng Mơ"}
+{"encodeId": "ZUDFZDDI", "title": "Áo Cũ Tình Em"}
+{"encodeId": "ZZ7E9ECA", "title": "Ít Nhưng Dài Lâu"}
+{"encodeId": "ZZ0AD6I8", "title": "Dâu Miền Tây"}
+{"encodeId": "ZU7B079F", "title": "Chưa Bao Giờ Em Quên"}
+{"encodeId": "ZO9W88IE", "title": "Anh Làm Gì Sai"}
+{"encodeId": "ZWDBBADB", "title": "Đánh Mất Em"}
+{"encodeId": "ZUOZE7EZ", "title": "Sai Cách Yêu"}
+{"encodeId": "ZUEW60FC", "title": "Anh Sẽ Đón Em (với Trang)"}
+{"encodeId": "ZOI6BFA9", "title": "Gặp Nhưng Không Ở Lại"}
+{"encodeId": "ZUAE700W", "title": "Ái Nộ"}
+{"encodeId": "ZWBW97D6", "title": "Tình Sầu Thiên Thu Muôn Lối"}
+{"encodeId": "ZWBWAIDA", "title": "Thích Thì Đến"}
+{"encodeId": "ZO9AEOF6", "title": "Suốt Đời Không Xứng"}
+{"encodeId": "ZO6FCU8E", "title": "Chỉ Muốn Bên Em Lúc Này"}
+{"encodeId": "ZUWWOO90", "title": "Bất Quá Nhân Gian"}
+{"encodeId": "ZUEAZ7W7", "title": "Quên Đi Thì Hơn"}
+{"encodeId": "ZZ0WB7AF", "title": "Phút Chia Lìa"}
+{"encodeId": "ZZ8FBO8F", "title": "Mây Hồng Đưa Lối"}
+{"encodeId": "ZU89DBIU", "title": "Đông Phai Mờ Dáng Ai"}
+{"encodeId": "ZZ80C8EF", "title": "Tình Đơn Côi"}
+{"encodeId": "ZO97OID8", "title": "Em Say Rồi"}
+{"encodeId": "ZZ6E0UZA", "title": "Em Đâu Biết Được"}
+{"encodeId": "ZO0AFICD", "title": "Anh Từng Cố Gắng"}
+{"encodeId": "ZWBO6CFU", "title": "Tình Anh"}
+{"encodeId": "ZWCZDFCA", "title": "Bỏ Lỡ Một Người"}
+{"encodeId": "ZWB0DOFI", "title": "Cứ Ngỡ Là Anh"}
+{"encodeId": "ZOZ0WD80", "title": "Đom Đóm"}
+{"encodeId": "ZZ69Z7ZO", "title": "Đường Tình Rẽ Lối"}
+{"encodeId": "ZZ8W6CWB", "title": "Ai Thấu Lòng Anh"}
+{"encodeId": "ZWBIEWBI", "title": "Đường Tôi Chở Em Về"}
+{"encodeId": "ZZ89WBCF", "title": "Như Một Kẻ Ngốc"}
+{"encodeId": "ZOFA609Z", "title": "Đổi Tình Đổi Áo Đổi Anh"}
+{"encodeId": "ZWBE8U0A", "title": "Hôm Nay Em Cưới Rồi"}
+{"encodeId": "ZZ8D9UZI", "title": "Thà Là"}
+{"encodeId": "ZOFEOCIO", "title": "Sợ Ta Mất Nhau"}
+{"encodeId": "ZZWFAOE7", "title": "Còn Duyên Thì Bên Nhau"}
+{"encodeId": "ZZIBOF6B", "title": "Duyên Trời Lấy 4"}
+{"encodeId": "ZU7UEUD0", "title": "Bao Lâu Ta Lại Yêu Một Người"}
+{"encodeId": "ZUF8OEFA", "title": "Ước Hẹn"}
+{"encodeId": "ZW67W08A", "title": "Dấu Mưa"}
+{"encodeId": "ZW9CF998", "title": "#CATENA"}
+{"encodeId": "ZW6OBD89", "title": "Người Ấy"}
+{"encodeId": "ZW6CZ0OW", "title": "Yêu Xa"}
+{"encodeId": "ZW6D6E08", "title": "Gạt Đi Nước Mắt"}
+{"encodeId": "ZW7W6ZA7", "title": "Thật Bất Ngờ"}
+{"encodeId": "ZW6A796B", "title": "Mình Yêu Nhau Đi"}
+{"encodeId": "ZW6BAE6C", "title": "Nắm Lấy Tay Anh"}
+{"encodeId": "ZW60IIZB", "title": "Tình Về Nơi Đâu"}
+{"encodeId": "ZW6UF98O", "title": "Forever Alone"}
+{"encodeId": "ZW667FDW", "title": "Em Không Quay Về"}
+{"encodeId": "ZW7U867U", "title": "Anh Cứ Đi Đi"}
+{"encodeId": "ZW677U88", "title": "Khi Người Lớn Cô Đơn"}
+{"encodeId": "ZWZFUD8Z", "title": "Một Chút Quên Anh Thôi"}
+{"encodeId": "ZW6EZDII", "title": "Giữ Em Đi"}
+{"encodeId": "ZW8WOFI7", "title": "Sống Xa Anh Chẳng Dễ Dàng"}
+{"encodeId": "ZW60O00W", "title": "Đồng Xanh"}
+{"encodeId": "ZW7O6UDW", "title": "Tâm Sự Với Người Lạ"}
+{"encodeId": "ZW7OA9Z0", "title": "Ngốc"}
+{"encodeId": "ZW7ODZ69", "title": "Em Đã Biết"}
+{"encodeId": "ZW7FE0FC", "title": "1234"}
+{"encodeId": "ZW9AFD7C", "title": "Hôm Nay Tôi Buồn"}
+{"encodeId": "ZW80Z8DE", "title": "Chiều Hôm Ấy"}
+{"encodeId": "ZW6A9I0A", "title": "Trót Yêu"}
+{"encodeId": "ZW6D0IBA", "title": "Như Những Phút Ban Đầu"}
+{"encodeId": "ZW6FEBZA", "title": "My Everything"}
+{"encodeId": "ZW9C0DOU", "title": "Rời Bỏ"}
+{"encodeId": "ZW7FC0FB", "title": "Đừng Ai Nhắc Về Anh Ấy"}
+{"encodeId": "ZWZF8ED8", "title": "Cần Lắm"}
+{"encodeId": "ZW8IFZUI", "title": "Chạm Khẽ Tim Anh Một Chút Thôi"}
+{"encodeId": "ZW7UFI6I", "title": "Gửi Anh Xa Nhớ"}
+{"encodeId": "ZW6BFZUA", "title": "Bốn Chữ Lắm"}
+{"encodeId": "ZW9F08EO", "title": "Anh Đang Ở Đâu Đấy Anh"}
+{"encodeId": "ZWADIED6", "title": "Anh Ơi Ở Lại"}
+{"encodeId": "ZW8WUICD", "title": "Em Ngày Xưa Khác Rồi"}
+{"encodeId": "ZWBO8O0Z", "title": "Để Mị Nói Cho Mà Nghe"}
+{"encodeId": "ZW7WBZBI", "title": "Vợ Người Ta"}
+{"encodeId": "ZW9DZFF0", "title": "Tận Cùng Nỗi Nhớ (New Version)"}
+{"encodeId": "ZW9C8FDB", "title": "Đừng Quên Tên Anh"}
+{"encodeId": "ZW7W9A9C", "title": "Thất Tình"}
+{"encodeId": "ZW7UUWC9", "title": "Đếm Ngày Xa Em"}
+{"encodeId": "ZW8WD9BE", "title": "Buồn Của Anh"}
+{"encodeId": "ZW66UC69", "title": "Giả Vờ Nhưng Em Yêu Anh"}
+{"encodeId": "ZW9CBEEO", "title": "Duyên Mình Lỡ"}
+{"encodeId": "ZW79ABDE", "title": "Em Không Là Duy Nhất"}
+{"encodeId": "ZW9BO8BC", "title": "Cuộc Sống Em Ổn Không"}
+{"encodeId": "ZW77F8E7", "title": "#BabyBaby"}
+{"encodeId": "ZW6OA87B", "title": "Chợt Thấy Em Khóc"}
+{"encodeId": "ZW78I80B", "title": "Mình Là Gì Của Nhau"}
+{"encodeId": "ZWAE8CBC", "title": "Bước Qua Đời Nhau"}
+{"encodeId": "ZWAEU0EE", "title": "Thay Tôi Yêu Cô Ấy"}
+{"encodeId": "ZW7BOW7C", "title": "Anh Sẽ Về Sớm Thôi"}
+{"encodeId": "ZWBO8OOZ", "title": "Chờ Ngày Mưa Tan"}
+{"encodeId": "ZWAD0OB6", "title": "Bạc Phận"}
+{"encodeId": "ZWBOU8OF", "title": "Không Thể Cùng Nhau Suốt Kiếp"}
+{"encodeId": "ZOI9BZDF", "title": "Lạnh Từ Trong Tim"}
+{"encodeId": "ZUAOZFA7", "title": "Phai Nhòa Cảm Xúc"}
+{"encodeId": "ZWCO0E99", "title": "Yêu Người Không Thể Yêu"}
+{"encodeId": "ZW8069UW", "title": "Không Thể Yêu Ai Được Nữa"}
+{"encodeId": "ZUWEDZ80", "title": "Phải Giữ Em Thế Nào"}
+{"encodeId": "ZW67FWWF", "title": "Bức Tranh Từ Nước Mắt"}
+{"encodeId": "ZW6ZUDA8", "title": "Em Đã Sai Vì Em Tin"}
+{"encodeId": "ZOZA0U99", "title": "Không Muốn Yêu Lại Càng Say Đắm"}
+{"encodeId": "ZW7CF6DF", "title": "Cánh Đồng Yêu Thương"}
+{"encodeId": "ZW7U86AD", "title": "Trái Tim Em Cũng Biết Đau"}
+{"encodeId": "ZW7W0F0E", "title": "Người Từng Yêu Anh Rất Sâu Nặng"}
+{"encodeId": "ZWB068E0", "title": "Cô Đơn Không Muốn Về Nhà"}
+{"encodeId": "ZWAU6I7E", "title": "Mới Mẻ Nào Cũng Ngọt Ngào"}
+{"encodeId": "ZW77FE98", "title": "Gương Mặt Lạ Lẫm"}
+{"encodeId": "ZW78B7DE", "title": "Đừng Tin Em Mạnh Mẽ"}
+{"encodeId": "ZW78UACE", "title": "Yêu Một Người Vô Tâm"}
+{"encodeId": "ZW9DCEE6", "title": "Càng Níu Giữ Càng Dễ Mất"}
+{"encodeId": "ZW80D9ZE", "title": "Nguyện Làm Tri Kỷ"}
+{"encodeId": "ZW69ZDAZ", "title": "Không Cần Thêm Một Ai Nữa"}
+{"encodeId": "ZWCO687D", "title": "Đi Đu Đưa Đi"}
+{"encodeId": "ZZ9IU6WA", "title": "Nàng Thơ"}
+{"encodeId": "ZZ9IACU9", "title": "Anh Thanh Niên"}
+{"encodeId": "ZZ90EA6F", "title": "Gác Lại Âu Lo"}
+{"encodeId": "ZZ9IAFW9", "title": "Sài Gòn Đau Lòng Quá"}
+{"encodeId": "ZWZF00WD", "title": "Tìm Lại Bầu Trời"}
+{"encodeId": "ZWBO8O09", "title": "Truyền Thái Y"}
+{"encodeId": "ZW7WI6FE", "title": "Chưa Bao Giờ"}
+{"encodeId": "ZWAFIZZ0", "title": "Trời Giấu Trời Mang Đi"}
+{"encodeId": "ZW68BZIF", "title": "Vết Mưa"}
+{"encodeId": "ZW8I76Z8", "title": "1 Phút"}
+{"encodeId": "ZO88EU0B", "title": "Anh Tệ Lắm"}
+{"encodeId": "ZZ9I7E8C", "title": "Yêu Em Hơn Mỗi Ngày"}
+{"encodeId": "ZWABOE8A", "title": "Anh Ở Đây Mà"}
+{"encodeId": "ZO9W7DC8", "title": "Anh Đừng Đi"}
+{"encodeId": "ZWABIBOD", "title": "Em Đã Thấy Anh Cùng Người Ấy"}
+{"encodeId": "ZZ9IAEC8", "title": "Chờ Đợi Có Đáng Sợ"}
+{"encodeId": "ZWBI06EO", "title": "Cần Một Lý Do"}
+{"encodeId": "ZW9E6908", "title": "Mãi Mãi Sẽ Hết Vào Ngày Mai"}
+{"encodeId": "ZW8W9FF7", "title": "Chỉ Cần Mình Thương Nhau"}
+{"encodeId": "ZWBIFDZW", "title": "Đừng Chờ"}
+{"encodeId": "ZW9C60ZI", "title": "Cô Gái Nhà Bên"}
+{"encodeId": "ZWAEC8OA", "title": "Do Em, Do Anh, Do Ai (#3D)"}
+{"encodeId": "ZWB0F8AZ", "title": "Chỉ Còn Em Thôi"}
+{"encodeId": "ZWA8AEB9", "title": "Quá Khứ Chỉ Nên Là Quá Khứ"}
+{"encodeId": "ZWADIOFF", "title": "Chẳng Còn Tha Thiết Để Yêu"}
+{"encodeId": "ZZ9IZ898", "title": "Chuyện Rằng"}
+{"encodeId": "ZZ9IO6FB", "title": "OK Em Buồn"}
+{"encodeId": "ZZ7IFW8O", "title": "Sài Gòn Chiều Nay Có Mưa Bay (Acoustic Version)"}
+{"encodeId": "ZZ98AFIU", "title": "Ước Một Ngày (7 Deep Cuts Session)"}
+{"encodeId": "ZZWOFAWB", "title": "Lớn Rồi Còn Khóc Nhè"}
+{"encodeId": "ZUDZFB90", "title": "Anh Yêu Em Nhiều Lắm"}
+{"encodeId": "ZZ97U9IC", "title": "Người Ta Đâu Thương Em (Acoustic Version)"}
+{"encodeId": "ZUIEFWUZ", "title": "Sài Gòn Hôm Nay Mưa (Live Piano Version)"}
+{"encodeId": "ZOFBBWF9", "title": "Lonely Love (Acoustic Version)"}
+{"encodeId": "ZZ96BFA6", "title": "Tháng 4 Là Lời Nói Dối Của Em (Live Version)"}
+{"encodeId": "ZU08ZBU9", "title": "Cuối Tuần"}
+{"encodeId": "ZOW6ZD6A", "title": "xuân, hạ, thu, đông rồi lại xuân"}
+{"encodeId": "ZU0FE7B9", "title": "Trong Trí Nhớ Của Anh"}
+{"encodeId": "ZZ9IO6FE", "title": "Ngày Thiếu Anh"}
+{"encodeId": "ZZUFAWI9", "title": "Nỗi Đau Xót Xa"}
+{"encodeId": "ZUDZFB8D", "title": "Tôi Đã Quên Thật Rồi"}
+{"encodeId": "ZU7BII9Z", "title": "Mây Hạ"}
+{"encodeId": "ZZWOFAW6", "title": "Tuổi 23"}
+{"encodeId": "ZOIBBFFF", "title": "Bởi Vì Là Khi Yêu (Piano Version)"}
+{"encodeId": "ZUI6O8FE", "title": "Vì Em Có Anh"}
+{"encodeId": "ZOAOIBOI", "title": "Thương (Acoustic Version)"}
+{"encodeId": "ZW7ODZ98", "title": "Xa Em (Acoustic Version)"}
+{"encodeId": "ZUWUE869", "title": "Nỗi Nhớ Mang Tên Mình (Acoustic Version)"}
+{"encodeId": "ZOW6ZD6D", "title": "yêu thì yêu không yêu thì yêu (acoustic)"}
+{"encodeId": "ZOWUA7ZO", "title": "nàng thơ... trời giấu trời mang đi"}
+{"encodeId": "ZWBO0DUZ", "title": "Cần 1 Ai Đó (Acoustic Version)"}
+{"encodeId": "ZOOIEIWU", "title": "Những Vết Thương"}
+{"encodeId": "ZOW6ZD6E", "title": "từ thích thích thành thương thương"}
+{"encodeId": "ZWBO8O78", "title": "Sau Này,  Hãy Gặp Lại Nhau Khi Hoa Nở"}
+{"encodeId": "ZWA868OZ", "title": "Cầu Hôn (Cover)"}
+{"encodeId": "ZW7809OU", "title": "Phố Không Em"}
+{"encodeId": "ZW7F6COC", "title": "Mình Yêu Nhau Yêu Nhau Bình Yên Thôi"}
+{"encodeId": "ZO69DFFO", "title": "Người Ơi Người Ở Đừng Về (Acoustic Version)"}
+{"encodeId": "ZZ90AUWI", "title": "Khi Người Lớn Cô Đơn"}
+{"encodeId": "ZWC0DO0Z", "title": "Ex’s Hate Me (Part 2) (Solo Ver)"}
+{"encodeId": "ZW70U88I", "title": "Y.Ê.U (Acoustic Version)"}
+{"encodeId": "ZUDZFB8E", "title": "Đau Đầu"}
+{"encodeId": "ZW8IOC0I", "title": "Tớ Thích Cậu (Acoustic)"}
+{"encodeId": "ZW7OCDC9", "title": "Em Đã Biết (Acoustic)"}
+{"encodeId": "ZZ908IA6", "title": "Cà Phê"}
+{"encodeId": "ZZ98II9W", "title": "Em Đã Xa Anh"}
+{"encodeId": "ZZ98C8I9", "title": "Và Ngày Nào Đó"}
+{"encodeId": "ZZ90ECDU", "title": "Chân Mây"}
+{"encodeId": "ZZ9U70EB", "title": "Dừng Lại Vẫn Kịp Lúc"}
+{"encodeId": "ZZ96U9C0", "title": "Duyên Duyên Số Số (Piano Version)"}
+{"encodeId": "ZZ90A7DE", "title": "Một Ngày Tôi Quên Hết"}
+{"encodeId": "ZZ9IWEBI", "title": "Hoa Ngũ Sắc"}
+{"encodeId": "ZZ9097D9", "title": "Mẹ Em Nhắc Anh"}
+{"encodeId": "ZZ908IA9", "title": "Phải Lòng Anh"}
+{"encodeId": "ZZ9I7689", "title": "Xa Nhau Không Nguyên Do"}
+{"encodeId": "ZZ908IA8", "title": "Ngắm Sao (Dear Miniacs)"}
